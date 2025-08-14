@@ -138,7 +138,7 @@ SmartInterview 是一款强大的Chrome浏览器扩展，专为招聘和面试�
 ## 九、支持与反馈
 
 如遇到任何问题或有改进建议，请通过以下方式联系我们：
-slack @yang xiao
+xiaoyyes
 ---
 
 感谢您使用SmartInterview插件，希望它能为您的招聘面试工作带来便利和效率！
